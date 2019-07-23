@@ -1,77 +1,77 @@
 {
   "nav": {
     "explorer": "Explorer",
-    "dashboard": "Dashboard",
+    "dashboard": "Dashboard", "Tableau de bord"
     "leaderboard": "Leaderboard",
-    "profile": "Profile"
+    "profile": "Profile","Profil"
   },
   "actions": {
     "load_more": "Load more",
-    "view_all": "View all",
-    "accept": "Accept",
-    "reject": "Reject",
-    "filter": "Filter",
-    "ok": "OK",
+    "view_all": "View all"," Voir tout"
+    "accept": "Accept","Accepter"
+    "reject": "Reject","Rejeter"
+    "filter": "Filter","Filtrer"
+    "ok": "OK","OK"
     "rate_fulfiller": "Rate fulfiller",
     "rate_issuer": "Rate issuer",
-    "activate": "Activate",
-    "de_activate": "Deactivate",
-    "re_activate": "Re-Activate",
-    "cancel": "Cancel",
-    "contribute": "Contribute",
+    "activate": "Activate","Activer"
+    "de_activate": "Deactivate","Désactiver"
+    "re_activate": "Re-Activate","Réactiver"
+    "cancel": "Cancel","Annuler"
+    "contribute": "Contribute","Contribuer"
     "contribute_issuer": "Increase Balance",
     "edit_bounty": "Edit Bounty",
-    "submit": "Submit",
+    "submit": "Submit","Soumettre"
     "extend_deadline": "Extend Deadline",
     "increase_payout": "Increase Payout",
     "transfer_ownership": "Transfer Ownership",
-    "logout": "Logout",
-    "close": "Close",
-    "reset": "Reset",
-    "sort": "Sort",
-    "continue": "Continue",
-    "dashboard": "Go to Dashboard",
-    "create_bounty": "Create New Bounty",
-    "profile": "Profile",
-    "settings": "Account Settings",
-    "signout": "Sign out",
-    "signin": "Sign in",
-    "view_bounty": "View Bounty",
+    "logout": "Logout","Déconnexion"
+    "close": "Close","Fermer"
+    "reset": "Reset","Réinitialiser"
+    "sort": "Sort","Trier"
+    "continue": "Continue","Continuer"
+    "dashboard": "Go to Dashboard","Aller au Tableau de bord"
+    "create_bounty": "Create New Bounty","Créer un Nouveau Bounty"
+    "profile": "Profile","Profil"
+    "settings": "Account Settings","Paramètre du Compte"
+    "signout": "Sign out"," Se Déconnecter"
+    "signin": "Sign in","S'identifier"/ "Se Connecter"
+    "view_bounty": "View Bounty","Voir Bounty"
     "view_rating": "View Rating",
     "discard_changes": "Discard Changes",
     "upload_photo": "Upload New Photo"
   },
   "sections": {
     "activity": {
-      "title": "My Activity",
+      "title": "My Activity","Mon Activité"
       "zero_state": {
-        "title": "You have no activity yet",
+        "title": "You have no activity yet","Vous n'avez pas encore d'activités"
         "description":
-          "Once you start using the platform, your activity will show up here."
+          "Once you start using the platform, your activity will show up here.","Quand vous commencerez à utiliser la plate-forme, votre activité sera affichée ici"
       }
     },
     "bounties": {
-      "title": "My Bounties",
+      "title": "My Bounties","Mes Bounties"
       "tabs": {
-        "active": "Active",
-        "drafts": "Draft"
+        "active": "Active","Actif"
+        "drafts": "Draft","Brouillon"
       },
       "zero_state": {
-        "title": "You have no {tab} bounties",
+        "title": "You have no {tab} bounties","Vous avez auncun {tab} bounties"
         "description":
-          "It looks like you don't have any {tab} bounties at the moment. Enter a title for a new bounty here to get started creating one!",
+          "It looks like you don't have any {tab} bounties at the moment. Enter a title for a new bounty here to get started creating one!","On dirait que vous n'avez auncun {tab} bounties pour le moment. Entrer un titre pour un nouveau bounty et commencez à en créer un!"
         "actions": {
-          "new_bounty": "Create new bounty"
+          "new_bounty": "Create new bounty","Créer un nouveau bounty"
         }
       }
     },
     "bounty": {
       "zero_state": {
         "title": "Could not find that bounty",
-        "description": "Try refreshing, or make sure your url is correct"
+        "description": "Try refreshing, or make sure your url is correct"," Essayez de réinitialiser, ou vérifiez que l'adresse url est correcte" 
       },
       "meta": {
-        "input": "Private",
+        "input": "Private","Privé"
         "label": "bounty",
         "tooltip":
           "Private bounties require that users apply to fulfill the bounty. Once you are approved by the issuer, you may submit a fulfillment for this bounty.",
@@ -92,9 +92,9 @@
           "review_placeholder": "Enter review..."
         },
         "new_comment": {
-          "placeholder": "Write a comment..",
-          "action": "Post comment",
-          "login_action": "Sign in to post comment"
+          "placeholder": "Write a comment..","Ecrivez un commentaire"
+          "action": "Post comment","Poster commentaire"
+          "login_action": "Sign in to post comment","Connecter vous pour poster un commentaire"
         },
         "applicant_card": {
           "declined_message":
@@ -106,8 +106,8 @@
         },
         "comments_card": {
           "zero_state": {
-            "title": "There are 0 comments",
-            "description": "Submit a comment using the form above."
+            "title": "There are 0 comments","Il y a 0 commentaires"
+            "description": "Submit a comment using the form above.","Soumettre un commentaire en utilisant la
           }
         },
         "submissions_card": {
